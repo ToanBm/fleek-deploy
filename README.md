@@ -3,7 +3,10 @@
 ### If you don't want to creat a new, you can start at Step 3!
 
 ```
-npx create-react-app caro-on-fleek && cd caro-on-fleek
+npx create-react-app <your-game> && cd <your-game>
+```
+```
+npm install ethers
 ```
 ```
 npm start
